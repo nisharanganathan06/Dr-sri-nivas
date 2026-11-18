@@ -5,8 +5,8 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Sri Nivas | Registered Business Profile',
-  description: 'A clear profile of Sri Nivas, a registered proprietorship in Kurumandur, Erode, Tamil Nadu.',
+  title: 'Dr. Sri Nivas | Trusted Medical Care in Erode',
+  description: 'Dr. Sri Nivas offers compassionate, expert medical care in Erode, Tamil Nadu. Book an appointment today.',
 };
 
 export default function RootLayout({
